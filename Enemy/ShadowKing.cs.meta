@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 941b79dc93bfd2343bbb981cc23984c8
+timeCreated: 1498782599
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - anim: {instanceID: 0}
+  - hitBox: {instanceID: 0}
+  - wepHitBox: {instanceID: 0}
+  - crushYou: {fileID: 8300000, guid: 043e62221ceefe74a8c856a54cfe68eb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

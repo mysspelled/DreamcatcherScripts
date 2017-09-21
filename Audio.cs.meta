@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a744d9aece9442f4eaecf951587df63b
+timeCreated: 1498528166
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SkyIntro: {fileID: 8300000, guid: cebd1cb7bc416de4f8ece4d2725a627d, type: 3}
+  - EnemyFound: {fileID: 8300000, guid: 450e97e84e8f5804dab570e29f495724, type: 3}
+  - AnotherEnemy: {fileID: 8300000, guid: fb733cc86295f6840963bd60cd1fed7f, type: 3}
+  - BowMissing: {fileID: 8300000, guid: fc378ac7d0f08de41811c8dd19170e5f, type: 3}
+  - CanIshootIt: {fileID: 8300000, guid: 172ff5c366688124daf5e0f03a094d1d, type: 3}
+  - ClubMissing: {fileID: 8300000, guid: 2e9fd19e06fc7354597604538a51514a, type: 3}
+  - ClubFound: {fileID: 8300000, guid: 543fab13a0688e548be37c1e8858c9fb, type: 3}
+  - FoundIt: {fileID: 8300000, guid: 9744cb507ca5b5640828c60c5a40c97a, type: 3}
+  - MyWeapons: {fileID: 8300000, guid: a6b2c9d6949d3c64fb74926cdf4e5aa5, type: 3}
+  - TomahawkFound: {fileID: 8300000, guid: 3f22fd10fbcf6ad42b6609a2c24a0ff6, type: 3}
+  - FootSteeps: {fileID: 8300000, guid: 9da5504971d94f94c86d27a70313373b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
